@@ -1,7 +1,10 @@
-⚡️Rails 6 JSON:API template 
----
+# 😴 Boring Bits: Rails API Edition
 
-A bare-bones Rails 6 template for modern API-only applications which use JWT authentication. This is a templated version of the structure outlined in [this post](https://jameschambers.co.uk/rails-api).
+**A bare-bones Rails 6 template for API-only applications which use JWT authentication.** 
+
+It's not glamourous. It's not sexy. It's just a dependably Boring starting point for your next API.
+
+Plays nicely with [Boring Bits: Nextjs Edition](https://github.com/jameschambers/boring-bits-nextjs).
 
 ## Highlights
 
