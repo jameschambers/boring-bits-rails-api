@@ -80,7 +80,8 @@ end
 ## Installers
 ## --------------------------------------------------
 
-generate('bundle install')
+run 'bundle install'
+
 generate('devise:install')
 generate('devise User')
 generate('rspec:install')
